@@ -16,18 +16,30 @@ The project includes a complete ecosystem of features:
     *   Interactive **Quiz** for user preferences.
     *   Account **Verification** flow.
 
+   <img width="420" height="837" alt="image" src="https://github.com/user-attachments/assets/0af17448-1bbf-4dcb-ba8a-c60f7994aff9" />
+
+
 *   **Profile System**:
     *   **Setup Profile**: Guided flow to create a user profile.
     *   **Edit Profile**: Easy-to-use interface for updating details.
     *   **View Profile**: Rich profile displays.
+ 
+   <img width="418" height="840" alt="image" src="https://github.com/user-attachments/assets/47ef5b67-a5d2-47b1-8576-8e65a83ad235" />
+
 
 *   **Social Interaction**:
     *   **Matches**: Algorithm-driven matching system.
     *   **Likes**: See who likes you and manage interactions.
     *   **Chat**: Real-time messaging interface.
+   <img width="421" height="834" alt="pagina 2" src="https://github.com/user-attachments/assets/7fab699d-1c0a-49e5-8c6e-be7397f26d8a" />
+   <img width="415" height="838" alt="image" src="https://github.com/user-attachments/assets/4ce79ed0-af0f-4ed7-b1f2-106fab8e702f" />
+
 
 *   **Monetization**:
     *   **Subscription**: Premium features and subscription management.
+ 
+   <img width="421" height="836" alt="image" src="https://github.com/user-attachments/assets/358cdfa0-66dc-4dc9-9f25-5c435a3ac993" />
+
 
 ## 🛠 Technical Architecture (PMW/PWA)
 

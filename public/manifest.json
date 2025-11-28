@@ -1,0 +1,16 @@
+{
+    "name": "Saturn",
+    "short_name": "Saturn",
+    "description": "A dating app PWA",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#0a0a0a",
+    "theme_color": "#9333ea",
+    "icons": [
+        {
+            "src": "/icons/icon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml"
+        }
+    ]
+}

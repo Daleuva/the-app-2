@@ -17,6 +17,8 @@ The project includes a complete ecosystem of features:
     *   Account **Verification** flow.
 
    <img width="420" height="837" alt="image" src="https://github.com/user-attachments/assets/0af17448-1bbf-4dcb-ba8a-c60f7994aff9" />
+   <img width="419" height="834" alt="image" src="https://github.com/user-attachments/assets/29e68cac-08cd-462b-b2b8-efd3ab5b31d9" />
+
 
 
 *   **Profile System**:
@@ -25,6 +27,8 @@ The project includes a complete ecosystem of features:
     *   **View Profile**: Rich profile displays.
  
    <img width="418" height="840" alt="image" src="https://github.com/user-attachments/assets/47ef5b67-a5d2-47b1-8576-8e65a83ad235" />
+   <img width="416" height="837" alt="image" src="https://github.com/user-attachments/assets/41ad5671-2117-4ae8-9f0d-7cc7c3611b59" />
+
 
 
 *   **Social Interaction**:
@@ -39,6 +43,8 @@ The project includes a complete ecosystem of features:
     *   **Subscription**: Premium features and subscription management.
  
    <img width="421" height="836" alt="image" src="https://github.com/user-attachments/assets/358cdfa0-66dc-4dc9-9f25-5c435a3ac993" />
+   <img width="421" height="834" alt="image" src="https://github.com/user-attachments/assets/def85a5a-3d0b-4aed-83fb-8188c1625945" />
+
 
 
 ## 🛠 Technical Architecture (PMW/PWA)
@@ -115,19 +121,31 @@ O projeto inclui um ecossistema completo de recursos:
     *   Telas de **Boas-vindas** envolventes.
     *   **Quiz** interativo para preferências do usuário.
     *   Fluxo de **Verificação** de conta.
+ 
+   <img width="420" height="837" alt="image" src="https://github.com/user-attachments/assets/0af17448-1bbf-4dcb-ba8a-c60f7994aff9" />
+   <img width="419" height="834" alt="image" src="https://github.com/user-attachments/assets/29e68cac-08cd-462b-b2b8-efd3ab5b31d9" />
 
 *   **Sistema de Perfil**:
     *   **Configuração de Perfil**: Fluxo guiado para criar o perfil do usuário.
     *   **Editar Perfil**: Interface fácil para atualizar detalhes.
     *   **Visualizar Perfil**: Exibição rica de perfis.
+ 
+   <img width="418" height="840" alt="image" src="https://github.com/user-attachments/assets/47ef5b67-a5d2-47b1-8576-8e65a83ad235" />
+   <img width="416" height="837" alt="image" src="https://github.com/user-attachments/assets/41ad5671-2117-4ae8-9f0d-7cc7c3611b59" />
 
 *   **Interação Social**:
     *   **Matches**: Sistema de combinação baseado em algoritmo.
     *   **Likes**: Veja quem curtiu você e gerencie interações.
     *   **Chat**: Interface de mensagens em tempo real.
+ 
+   <img width="421" height="834" alt="pagina 2" src="https://github.com/user-attachments/assets/7fab699d-1c0a-49e5-8c6e-be7397f26d8a" />
+   <img width="415" height="838" alt="image" src="https://github.com/user-attachments/assets/4ce79ed0-af0f-4ed7-b1f2-106fab8e702f" />
 
 *   **Monetização**:
     *   **Assinatura**: Recursos premium e gerenciamento de assinaturas.
+ 
+   <img width="421" height="836" alt="image" src="https://github.com/user-attachments/assets/358cdfa0-66dc-4dc9-9f25-5c435a3ac993" />
+   <img width="421" height="834" alt="image" src="https://github.com/user-attachments/assets/def85a5a-3d0b-4aed-83fb-8188c1625945" />
 
 ### Arquitetura Técnica (PMW/PWA)
 
